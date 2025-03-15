@@ -215,5 +215,5 @@ function validate() {
 }
 
 function alerta() {
-    swal("Desculpa!", "Não posso aceitar, você não parece ser Meu Amor! :(")
+    swal("Desculpa!", "Não posso aceitar, você não parece ser Meu Amorr! :(")
 }
