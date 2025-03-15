@@ -204,7 +204,7 @@ function validate() {
     var username = document.getElementById("username").value;
     var password = document.getElementById("password").value;
 
-    if (username == "Neto" && password == "15032025") {
+    if (username == "Amor" && password == "15032025") {
         window.location = "final.html";
         return false;
     }
@@ -215,5 +215,5 @@ function validate() {
 }
 
 function alerta() {
-    swal("Desculpa!", "Não posso aceitar, você não parece ser Claudia Medeiros! :(")
+    swal("Desculpa!", "Não posso aceitar, você não parece ser Meu Amor! :(")
 }
